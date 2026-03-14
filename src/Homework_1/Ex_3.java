@@ -1,3 +1,5 @@
+package Homework_1;
+
 public class Ex_3 {
     public static void main(String[] args) {
         double a = 2.8;

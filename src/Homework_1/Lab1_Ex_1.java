@@ -1,3 +1,5 @@
+package Homework_1;
+
 public class Lab1_Ex_1 {
     public static void main(String[] args){
         byte b;

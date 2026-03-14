@@ -1,3 +1,5 @@
+package Homework_1;
+
 public class Ex_1 {
     public static void main(String[] rgs){
         int a = 2;
